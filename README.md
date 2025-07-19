@@ -70,4 +70,4 @@ All of the [contributors](https://github.com/monkeytypegame/monkeytype/graphs/co
 
 If you wish to support further development and feel extra awesome, you can [donate](https://ko-fi.com/monkeytype), [become a Patron](https://www.patreon.com/monkeytype) or [buy a t-shirt](https://www.monkeytype.store/).
 
-test
+test1
